@@ -25,8 +25,8 @@ Mobile Application Developer with 3 years 7 months of experience building native
 
 <div align="center">
   <a href="https://github.com/Tayyba-Adien">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tayyba-Adien&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&bg_color=0d1117&border_color=00D4AA&icon_color=00D4AA&title_color=00D4AA" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyba-Adien&layout=compact&langs_count=8&theme=vue-dark&bg_color=0d1117&border_color=00D4AA&title_color=00D4AA" />
+    <img height="180em" src="https://github-readme-stats-eight-pied.vercel.app/api?username=Tayyba-Adien&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&bg_color=0d1117&border_color=00D4AA&icon_color=00D4AA&title_color=00D4AA" />
+    <img height="180em" src="https://github-readme-stats-eight-pied.vercel.app/api/top-langs/?username=Tayyba-Adien&layout=compact&langs_count=8&theme=vue-dark&bg_color=0d1117&border_color=00D4AA&title_color=00D4AA" />
   </a>
 </div>
 
