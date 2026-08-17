@@ -24,13 +24,6 @@ Mobile Application Developer with 3 years 7 months of experience building native
 ## GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/Tayyba-Adien">
-    <img height="180em" src="https://github-readme-stats-eight-pied.vercel.app/api?username=Tayyba-Adien&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&bg_color=0d1117&border_color=00D4AA&icon_color=00D4AA&title_color=00D4AA" />
-    <img height="180em" src="https://github-readme-stats-eight-pied.vercel.app/api/top-langs/?username=Tayyba-Adien&layout=compact&langs_count=8&theme=vue-dark&bg_color=0d1117&border_color=00D4AA&title_color=00D4AA" />
-  </a>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tayyba-Adien&theme=vue-dark&background=0d1117&border=00D4AA&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" alt="GitHub Streak" />
 </div>
 
