@@ -21,12 +21,6 @@ Mobile Application Developer with 3 years 7 months of experience building native
 
 <br clear="right">
 
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tayyba-Adien&theme=vue-dark&background=0d1117&border=00D4AA&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" alt="GitHub Streak" />
-</div>
-
 
 ## Technical Skills
 
